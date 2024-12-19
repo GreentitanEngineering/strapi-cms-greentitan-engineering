@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "solar_system_prices",
+  "info": {
+    "singularName": "solar-system-price",
+    "pluralName": "solar-system-prices",
+    "displayName": "SolarSystemPrice"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "power": {
+      "type": "decimal"
+    },
+    "phase": {
+      "type": "enumeration",
+      "enum": [
+        "one",
+        "three"
+      ]
+    },
+    "panelQuntity": {
+      "type": "integer"
+    },
+    "price": {
+      "type": "decimal"
+    }
+  }
+}

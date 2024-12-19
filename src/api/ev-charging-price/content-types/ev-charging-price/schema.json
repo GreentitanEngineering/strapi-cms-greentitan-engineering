@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ev_charging_prices",
+  "info": {
+    "singularName": "ev-charging-price",
+    "pluralName": "ev-charging-prices",
+    "displayName": "EVChargingPrice"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "power": {
+      "type": "decimal"
+    },
+    "brandName": {
+      "type": "string"
+    },
+    "modelDetail": {
+      "type": "string"
+    },
+    "price": {
+      "type": "decimal"
+    },
+    "brandImageUrl": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

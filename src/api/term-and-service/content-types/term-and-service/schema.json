@@ -19,7 +19,7 @@
       "options": {
         "output": "HTML",
         "preset": "light",
-        "licenseKey": "eyJhbGciOiJFUzI1NiJ9.eyJleHAiOjE3NjQ3MTk5OTksImp0aSI6ImQ1Y2FjYzUxLWFmMmEtNDgzMy04ZWFlLWM4MjlhYzFlOWI0NCIsImxpY2Vuc2VkSG9zdHMiOlsiMTI3LjAuMC4xIiwibG9jYWxob3N0IiwiMTkyLjE2OC4qLioiLCIxMC4qLiouKiIsIjE3Mi4qLiouKiIsIioudGVzdCIsIioubG9jYWxob3N0IiwiKi5sb2NhbCJdLCJ1c2FnZUVuZHBvaW50IjoiaHR0cHM6Ly9wcm94eS1ldmVudC5ja2VkaXRvci5jb20iLCJkaXN0cmlidXRpb25DaGFubmVsIjpbImNsb3VkIiwiZHJ1cGFsIl0sImxpY2Vuc2VUeXBlIjoiZGV2ZWxvcG1lbnQiLCJmZWF0dXJlcyI6WyJEUlVQIiwiQk9YIl0sInZjIjoiNmI2YTM3MzIifQ.Eb_REGaIu75Wn8S2nUQR2QVmIfHrHYMUAajrjI6KpPdGL0zfZL8ar6vf1Aaf273SeGuTA1c5v27AbzN72SSo0w"
+        "licenseKey": "eyJhbGciOiJFUzI1NiJ9.eyJleHAiOjE3NjYxODg3OTksImp0aSI6ImYyMmRmY2IzLWMzMWUtNDVhZi1iMjJhLWZiZjNhMjk5ZTkzOCIsInVzYWdlRW5kcG9pbnQiOiJodHRwczovL3Byb3h5LWV2ZW50LmNrZWRpdG9yLmNvbSIsImRpc3RyaWJ1dGlvbkNoYW5uZWwiOlsiY2xvdWQiLCJkcnVwYWwiXSwiZmVhdHVyZXMiOlsiRFJVUCIsIkJPWCJdLCJ2YyI6IjI4YjI0MjZlIn0.ejRFRm9dGvILP_x8xKRdwfDCLQraNcK063VGKYo2wGlgzftZA5pXasON1QRxHBDhc6Cw2zWJV4s_wYvuLyQG3A"
       },
       "customField": "plugin::ckeditor.CKEditor"
     }
